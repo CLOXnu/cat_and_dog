@@ -1,0 +1,1 @@
+nohup python -u training.py > out.log 2>&1 &
